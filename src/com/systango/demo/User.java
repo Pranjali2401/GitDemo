@@ -12,5 +12,7 @@ public class User {
 	long salary;
 	float rent;
 
+	long mobileNumber;
+	String friends[];
 
 }
